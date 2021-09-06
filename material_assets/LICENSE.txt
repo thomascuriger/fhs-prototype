@@ -1,0 +1,3 @@
+Created from Google’s material design components sticker sheet, obtained from https://material.google.com/resources/sticker-sheets-icons.html
+
+You have permission to modify, redistribute, and use for any personal or commercial purpose, except for redistributing as an asset pack while charging a price.
